@@ -10,7 +10,7 @@ An intelligent web application that automatically detects and corrects spelling 
 
 ## 🚀 Live Demo
 You can access the live version of the application here:
-### [👉 Launch Spell Checker Web App](https://your-app-link.streamlit.app)
+### [👉 Launch Spell Checker Web App](https://speel-checker-app-cvpwpjjk4r2qfrimi4bvyb.streamlit.app/)
 
 ---
 
